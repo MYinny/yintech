@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="210" viewBox="0 0 620 210" role="img" aria-label="YIN TECH one color navy">
+<title>YIN TECH one color navy</title>
+<style>
+.logo-word { font-family: Montserrat, Inter, Arial, sans-serif; font-weight: 600; letter-spacing: 0.12em; }
+.tagline { font-family: Inter, Arial, sans-serif; font-weight: 400; letter-spacing: 0.01em; }
+.label { font-family: Inter, Arial, sans-serif; font-weight: 600; letter-spacing: 0.06em; }
+.body { font-family: Inter, Arial, sans-serif; font-weight: 400; }
+</style>
+
+<path d="M62 35 H138 Q165 35 165 62 V78" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 78 V62 Q35 35 62 35" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 122 V138 Q35 165 62 165 H77" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123 165 H138 Q165 165 165 138 V122" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 67 L100 96 L128 67" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 96 V142" transform="translate(28,34) scale(0.7)" fill="none" stroke="#24313F" stroke-width="15" stroke-linecap="round"/>
+<circle cx="52.50" cy="104.00" r="5.95" fill="#24313F"/>
+<circle cx="98.00" cy="149.50" r="5.95" fill="#24313F"/>
+<circle cx="143.50" cy="104.00" r="5.95" fill="#24313F"/><text x="205" y="100" class="logo-word" font-size="48" fill="#24313F" text-anchor="start">YIN TECH</text><text x="207" y="138" class="tagline" font-size="19" fill="#24313F" text-anchor="start">Managed IT, made simple.</text>
+</svg>

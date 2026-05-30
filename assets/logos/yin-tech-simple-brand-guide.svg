@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="YIN TECH simple brand guide">
+<title>YIN TECH simple brand guide</title>
+<style>
+.logo-word { font-family: Montserrat, Inter, Arial, sans-serif; font-weight: 600; letter-spacing: 0.12em; }
+.tagline { font-family: Inter, Arial, sans-serif; font-weight: 400; letter-spacing: 0.01em; }
+.label { font-family: Inter, Arial, sans-serif; font-weight: 600; letter-spacing: 0.06em; }
+.body { font-family: Inter, Arial, sans-serif; font-weight: 400; }
+</style>
+
+<rect width="1200" height="900" fill="#F7F4EE"/>
+<text x="50" y="70" class="label" font-size="28" fill="#24313F">YIN TECH — SIMPLE BRAND GUIDE</text>
+<text x="50" y="108" class="tagline" font-size="22" fill="#6F8F7D">Managed IT, made simple.</text>
+<text x="50" y="170" class="label" font-size="16" fill="#24313F">PRIMARY LOGO</text>
+<path d="M62 35 H138 Q165 35 165 62 V78" transform="translate(70,200) scale(0.925)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 78 V62 Q35 35 62 35" transform="translate(70,200) scale(0.925)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 122 V138 Q35 165 62 165 H77" transform="translate(70,200) scale(0.925)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123 165 H138 Q165 165 165 138 V122" transform="translate(70,200) scale(0.925)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 67 L100 96 L128 67" transform="translate(70,200) scale(0.925)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 96 V142" transform="translate(70,200) scale(0.925)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round"/>
+<circle cx="102.38" cy="292.50" r="7.86" fill="#D8B98C"/>
+<circle cx="162.50" cy="352.62" r="7.86" fill="#24313F"/>
+<circle cx="222.62" cy="292.50" r="7.86" fill="#B86B5E"/>
+<text x="162" y="450" class="logo-word" font-size="48" fill="#24313F" text-anchor="middle">YIN TECH</text>
+<text x="162" y="490" class="tagline" font-size="20" fill="#6F8F7D" text-anchor="middle">Managed IT, made simple.</text>
+<text x="380" y="170" class="label" font-size="16" fill="#24313F">HORIZONTAL LOGO</text>
+<path d="M62 35 H138 Q165 35 165 62 V78" transform="translate(380,205) scale(0.675)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 78 V62 Q35 35 62 35" transform="translate(380,205) scale(0.675)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 122 V138 Q35 165 62 165 H77" transform="translate(380,205) scale(0.675)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123 165 H138 Q165 165 165 138 V122" transform="translate(380,205) scale(0.675)" fill="none" stroke="#24313F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 67 L100 96 L128 67" transform="translate(380,205) scale(0.675)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 96 V142" transform="translate(380,205) scale(0.675)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round"/>
+<circle cx="403.62" cy="272.50" r="5.74" fill="#D8B98C"/>
+<circle cx="447.50" cy="316.38" r="5.74" fill="#24313F"/>
+<circle cx="491.38" cy="272.50" r="5.74" fill="#B86B5E"/>
+<text x="550" y="270" class="logo-word" font-size="44" fill="#24313F" text-anchor="start">YIN TECH</text>
+<text x="552" y="306" class="tagline" font-size="18" fill="#6F8F7D" text-anchor="start">Managed IT, made simple.</text>
+<rect x="380" y="360" width="520" height="120" rx="18" fill="#24313F"/>
+<path d="M62 35 H138 Q165 35 165 62 V78" transform="translate(405,385) scale(0.4)" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 78 V62 Q35 35 62 35" transform="translate(405,385) scale(0.4)" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 122 V138 Q35 165 62 165 H77" transform="translate(405,385) scale(0.4)" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123 165 H138 Q165 165 165 138 V122" transform="translate(405,385) scale(0.4)" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 67 L100 96 L128 67" transform="translate(405,385) scale(0.4)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 96 V142" transform="translate(405,385) scale(0.4)" fill="none" stroke="#6F8F7D" stroke-width="15" stroke-linecap="round"/>
+<circle cx="419.00" cy="425.00" r="3.40" fill="#D8B98C"/>
+<circle cx="445.00" cy="451.00" r="3.40" fill="#FFFFFF"/>
+<circle cx="471.00" cy="425.00" r="3.40" fill="#B86B5E"/>
+<text x="515" y="435" class="logo-word" font-size="34" fill="#FFFFFF" text-anchor="start">YIN TECH</text>
+<text x="517" y="464" class="tagline" font-size="15" fill="#8FA89A" text-anchor="start">Managed IT, made simple.</text>
+<text x="50" y="600" class="label" font-size="16" fill="#24313F">COLOR PALETTE</text>
+<rect x="50" y="635" width="110" height="80" rx="10" fill="#24313F"/>
+<text x="50" y="750" class="label" font-size="13" fill="#24313F">DEEP NAVY</text>
+<text x="50" y="774" class="body" font-size="15" fill="#24313F">#24313F</text>
+<rect x="230" y="635" width="110" height="80" rx="10" fill="#8FA89A"/>
+<text x="230" y="750" class="label" font-size="13" fill="#24313F">SAGE / TEAL</text>
+<text x="230" y="774" class="body" font-size="15" fill="#24313F">#8FA89A</text>
+<rect x="410" y="635" width="110" height="80" rx="10" fill="#D8B98C"/>
+<text x="410" y="750" class="label" font-size="13" fill="#24313F">WARM SAND</text>
+<text x="410" y="774" class="body" font-size="15" fill="#24313F">#D8B98C</text>
+<rect x="590" y="635" width="110" height="80" rx="10" fill="#B86B5E"/>
+<text x="590" y="750" class="label" font-size="13" fill="#24313F">MUTED CLAY RED</text>
+<text x="590" y="774" class="body" font-size="15" fill="#24313F">#B86B5E</text>
+<text x="760" y="600" class="label" font-size="16" fill="#24313F">TYPOGRAPHY</text>
+<text x="760" y="655" class="logo-word" font-size="48" fill="#24313F">YIN TECH</text>
+<text x="760" y="695" class="tagline" font-size="22" fill="#6F8F7D">Managed IT, made simple.</text>
+<text x="760" y="745" class="label" font-size="14" fill="#24313F">LOGO / HEADLINE: MONTSERRAT SEMIBOLD</text>
+<text x="760" y="775" class="body" font-size="16" fill="#24313F">BODY: INTER REGULAR</text>
+<text x="760" y="810" class="body" font-size="15" fill="#24313F">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text>
+<text x="760" y="835" class="body" font-size="15" fill="#24313F">abcdefghijklmnopqrstuvwxyz 0123456789</text>
+</svg>
