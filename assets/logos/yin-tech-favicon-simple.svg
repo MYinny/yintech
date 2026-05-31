@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="YIN TECH icon">
+  <title>YIN TECH favicon</title>
+  <rect width="512" height="512" rx="104" fill="#FFFFFF"/>
+  <path d="M139.5 181.5 V148.5 Q139.5 91.5 196.5 91.5 H315.5 Q372.5 91.5 372.5 148.5 V181.5" fill="none" stroke="#24313F" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M139.5 330.5 V363.5 Q139.5 420.5 196.5 420.5 H220" fill="none" stroke="#24313F" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M292 420.5 H315.5 Q372.5 420.5 372.5 363.5 V330.5" fill="none" stroke="#24313F" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 184 L256 258 L328 184" fill="none" stroke="#24313F" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 258 V372" fill="none" stroke="#24313F" stroke-width="40" stroke-linecap="round"/>
+</svg>
